@@ -9,6 +9,4 @@ I specialize in DevOps Automation, Software Engineering, and Cloud Administratio
 
 📫 How to reach me: Feel free to connect with me via email at alina.vikhnevich91@gmail.com or on LinkedIn https://www.linkedin.com/in/alina-vikhnevich-1b4215273/.
 
-😄 Pronouns: She/Her
-
 ⚡ Fun fact: Before diving deep into the world of DevOps and cloud technologies, I was a nail artist, creatively combining colors and designs to bring joy and artistry to everyday life. This experience sharpened my attention to detail and patience, skills that I now apply when scripting and automating complex systems. It's a testament to how diverse experiences can contribute uniquely to one's technical prowess!
